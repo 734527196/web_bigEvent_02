@@ -37,6 +37,10 @@ a {
     user-select: none;
 }
 
+.userInfo {
+    font-size: 12px;
+}
+
 .text_avatar {
     display: inline-block;
     width: 40px;
